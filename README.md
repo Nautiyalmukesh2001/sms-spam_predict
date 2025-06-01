@@ -1,4 +1,5 @@
-![Header](https://raw.githubusercontent.com/mukesh-ai/readme-assets/main/spam-sms-header.png)
+![Header](https://github.com/user-attachments/assets/03d41f5a-37de-497c-b382-bb3cdadeeb90)
+
 
 # 📱 Spam SMS Detection using Machine Learning
 
@@ -51,7 +52,7 @@ Install required libraries:
 ```bash
 pip install pandas numpy matplotlib seaborn nltk scikit-learn wordcloud xgboost
 
----
+```
 
 ## ▶️ How to Run
 
