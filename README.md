@@ -1,5 +1,4 @@
-![Header](https://github.com/user-attachments/assets/03d41f5a-37de-497c-b382-bb3cdadeeb90)
-
+<img src="https://github.com/user-attachments/assets/03d41f5a-37de-497c-b382-bb3cdadeeb90" alt="Header" width="100%" height="auto">
 
 # 📱 Spam SMS Detection using Machine Learning
 
