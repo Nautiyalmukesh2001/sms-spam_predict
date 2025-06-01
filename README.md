@@ -37,7 +37,7 @@ This project follows a complete ML workflow for text classification:
 
 ## 📂 Dataset
 
-The dataset used is **`spam.csv`** taken from Kaggle, consisting of SMS messages labeled as:
+The dataset used is **[`spam.csv`](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset)** taken from Kaggle, consisting of SMS messages labeled as:
 
 - `ham` – legitimate messages  
 - `spam` – unsolicited messages
